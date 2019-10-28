@@ -3,3 +3,4 @@ Paninoteca Padovana
 Panini
 panini: Panino primavera
 panini: Panino vegetariano
+Fritti
