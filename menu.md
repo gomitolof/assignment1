@@ -1,3 +1,4 @@
 Matricola: 1143643
-Panino primavera
-Panino vegetariano
+Panini
+panini: Panino primavera
+panini: Panino vegetariano
